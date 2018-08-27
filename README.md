@@ -7,8 +7,8 @@ Requirements:
 
 Procedure:
 Choose a representational capacity (RC+/RC-) and run files which mention the appropriate tag. Manipulate the neural capacity within the files with 'n_hl'
-1. Run the 'train1_' file first. This will train the OPS with the required neural and representational capacity.
-2. Run the 'train2_' file second. There are two steps therein. First set 'cond_h' to 1 to train the probe network, and then to 7 to train the cue network.
+1. Run the 'train1-' file first. This will train the OPS with the required neural and representational capacity.
+2. Run the 'train2-' file second. There are two steps therein. First set 'cond_h' to 1 to train the probe network, and then to 7 to train the cue network.
 3. Run the associated ipynb notebook sequentially. It will output the performance of the network on the various cases (probe-only, uninformative cue, informative cue)
 
 Contact: Mail me at sushrut.thorat94@gmail.com for any clarifications.
