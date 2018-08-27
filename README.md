@@ -1,4 +1,4 @@
-# cue-feedback-ccn18
+# The function of cue-driven feature-based feedback in object recognition (supplementary)
 The codes associated with our CCN'18 paper - https://ccneuro.org/2018/proceedings/1044.pdf
 
 Requirements:
